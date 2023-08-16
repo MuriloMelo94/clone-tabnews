@@ -1,5 +1,5 @@
 function Home () {
-    return <h1>Tia Nem, eu amo você. Se você me ama, dá uma risadinha! ❤️ </h1>
+    return <h1>Mamãe crocheteira e Titias Crocheteiras, eu amo vocês. Se você me amam, deem uma risadinha! ❤️ </h1>
 }
 
 export default Home;
