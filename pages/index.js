@@ -2,19 +2,19 @@ function Home() {
   return (
     <div>
       <h1>
-        Site murilomelo.dev <s>"Em Construção"</s>.
+        Site murilomelo.dev <strong>"Em Construção"</strong>.
       </h1>
       <p>
-        <s>Propósito:</s> ser o pedacinho da internet sob minha
+        <strong>Propósito:</strong> ser o pedacinho da internet sob minha
         responsabilidade, capaz de entregar meu valor profissional, de maneira
         perceptível, para empresas e recrutadores.
       </p>
       <p>
-        <s>Público-alvo:</s>Recrutadores, gestores e demais responsáveis por
-        contratações nas empresas.
+        <strong>Público-alvo:</strong>Recrutadores, gestores e demais
+        responsáveis por contratações nas empresas.
       </p>
       <h2>
-        <s>O que precisa ser:</s>
+        <strong>O que precisa ser:</strong>
       </h2>
       <ul>
         <li>
