@@ -20,7 +20,7 @@ function Home() {
         <li>
           Feito? Um portfólio da minha trajetória, resultado dos cursos que fiz,
           deixar online os softwares das seleções empresariais que forem sendo
-          feitas
+          feitas, exemplos de consultas de API.
         </li>
         <li>Protegido?</li>
         <li>Repetido?</li>
